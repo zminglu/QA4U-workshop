@@ -5,6 +5,10 @@ singularity image file, including
 - jupyter lab
 - openjij
 - dwave-ocean-sdk
+- pandas-datareader
 
-### References
+## Lectures
+all QA programs for practice are using the simulator to save D-wave execution time
+
+## References
 - [QA4U website](https://altema.is.tohoku.ac.jp/QA4U/)
