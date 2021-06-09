@@ -6,6 +6,9 @@ singularity image file, including
 - openjij
 - dwave-ocean-sdk
 - pandas-datareader
+- osmnx
+- geocoder
+- networkX
 
 ## Lectures
 all QA programs for practice are using the simulator to save D-wave execution time
